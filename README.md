@@ -22,6 +22,7 @@
 - [ ] 编译 Gentoo
 - [ ] 编译 LFS
 - [ ] 学习藤本修三的折纸技术，并将其著作翻译、电子排版
+- [ ] 自定义一套用字标准
 
 ## 其它
 
@@ -31,8 +32,9 @@
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 - [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
-  - [ ] 将相关内容加入 Rust cookbook
+  - [ ] 将相关内容加入 Rust By Example
 - [ ] 为 EGE 写一个安装程序
+- [ ] 复刻 BGI Demo
 - [ ] 在 C++ 中用模板实现简化版的事件模型
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
@@ -52,3 +54,4 @@ TODO...
 
 - 解决 minicom 中文本地化的对齐混乱
 - 在 [History of OpenGL](https://www.khronos.org/opengl/wiki/History_of_OpenGL) 页面增加 OpenGL ES 的历史和版本变化
+- 改进 clipp
