@@ -19,6 +19,8 @@
 - [ ] PLFA 第二三分册 [link](https://agda-zh.github.io/PLFA-zh/)
 - [ ] [TwinklebearDev Tutorials](https://github.com/Twinklebear/TwinklebearDev-Lessons)
 - [ ] 学会织围巾
+- [ ] 实现软光栅
+- [ ] 实现软光线追踪
 - [ ] 编译 Gentoo
 - [ ] 编译 LFS
 - [ ] 学习藤本修三的折纸技术，并将其著作翻译、电子排版
