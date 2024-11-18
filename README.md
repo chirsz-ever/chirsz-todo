@@ -32,6 +32,7 @@
 
 - [ ] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
+- [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 - [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
