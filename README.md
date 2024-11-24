@@ -40,6 +40,7 @@
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 在 C++ 中用模板实现简化版的事件模型
+- [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
@@ -59,3 +60,4 @@ TODO...
 - 解决 minicom 中文本地化的对齐混乱
 - 在 [History of OpenGL](https://www.khronos.org/opengl/wiki/History_of_OpenGL) 页面增加 OpenGL ES 的历史和版本变化
 - 改进 clipp
+- 设计并开源 Micro-B 3.0 转 Type-C 的转换电路，含芯片
