@@ -46,6 +46,7 @@
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
 - [ ] 为 Ubisurfer 9 装上 Linux 系统
+- [ ] 实现 kmscon 的替代品
 - [ ] 实现 WebGL over WebGPU
 - [ ] 使用 NodeAPI 将 dawn 接入 Node.js
 - [ ] 修复 AList 的 bug，或者自己写一套新的 [link1](https://github.com/AlistGo/alist/issues/7011) [link2](https://github.com/AlistGo/alist/issues/7012)
