@@ -19,6 +19,9 @@
 - [ ] PLFA 第二三分册 [link](https://agda-zh.github.io/PLFA-zh/)
 - [ ] [TwinklebearDev Tutorials](https://github.com/Twinklebear/TwinklebearDev-Lessons)
 - [ ] 学会织围巾
+- [ ] 小篆和篆刻
+- [ ] The Tex Book 及中西文排版技术
+- [ ] 糖画制作
 - [ ] 实现软光栅
 - [ ] 实现软光线追踪
 - [ ] 编译 Gentoo
