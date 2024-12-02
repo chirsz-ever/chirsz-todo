@@ -52,7 +52,6 @@
 - [ ] 为 Ubisurfer 9 装上 Linux 系统
 - [ ] 实现 kmscon 的替代品
 - [ ] 实现 WebGL over WebGPU
-- [ ] 使用 NodeAPI 将 dawn 接入 Node.js
 - [ ] 修复 AList 的 bug，或者自己写一套新的 [link1](https://github.com/AlistGo/alist/issues/7011) [link2](https://github.com/AlistGo/alist/issues/7012)
 - [ ] 让 ZeroTier 能更快通过 Moon 节点连接，实现更方便的 ZeroTier 客户端，或者改用 TailScale 等组网方式
 - 关注和研究使用玻璃通过光学手段超长期存储数据的方法，主要是 Project Silica
@@ -68,3 +67,4 @@ TODO...
 - 改进 clipp
 - 设计并开源 Micro-B 3.0 转 Type-C 的转换电路，含芯片
 - 实现用录音磁带记录二进制数据
+- 使用 NodeAPI 将 dawn 接入 Node.js [maierfelix/webgpu](https://github.com/maierfelix/webgpu) [dawn.node](https://dawn.googlesource.com/dawn/+/refs/heads/main/src/dawn/node/)
