@@ -27,13 +27,12 @@
 - [ ] 编译 Gentoo
 - [ ] 编译 LFS
 - [ ] 学习藤本修三的折纸技术，并将其著作翻译、电子排版
-- [ ] 自定义一套用字标准
+- [ ] 自定义一套用字标准 (基于 [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs))
 
 ## 其它
 
 按某种微妙的顺序排序。
 
-- [ ] 用 Python 改一版 <https://github.com/jinliming2/qbittorrent-ban-xunlei>
 - [ ] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
@@ -68,3 +67,4 @@ TODO...
 - 设计并开源 Micro-B 3.0 转 Type-C 的转换电路，含芯片
 - 实现用录音磁带记录二进制数据
 - 使用 NodeAPI 将 dawn 接入 Node.js [maierfelix/webgpu](https://github.com/maierfelix/webgpu) [dawn.node](https://dawn.googlesource.com/dawn/+/refs/heads/main/src/dawn/node/)
+- 用 Python 改一版 <https://github.com/jinliming2/qbittorrent-ban-xunlei> (直接用 <https://github.com/Simple-Tracker/qBittorrent-ClientBlocker>)
