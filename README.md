@@ -34,6 +34,7 @@
 按某种微妙的顺序排序。
 
 - [ ] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端
+- [ ] 实现纯 Lua 的 bit32 polyfill
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
