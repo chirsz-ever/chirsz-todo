@@ -34,7 +34,6 @@
 按某种微妙的顺序排序。
 
 - [ ] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端
-- [ ] 实现纯 Lua 的 bit32 polyfill
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
@@ -67,5 +66,9 @@ TODO...
 - 改进 clipp
 - 设计并开源 Micro-B 3.0 转 Type-C 的转换电路，含芯片
 - 实现用录音磁带记录二进制数据
-- 使用 NodeAPI 将 dawn 接入 Node.js [maierfelix/webgpu](https://github.com/maierfelix/webgpu) [dawn.node](https://dawn.googlesource.com/dawn/+/refs/heads/main/src/dawn/node/)
-- 用 Python 改一版 <https://github.com/jinliming2/qbittorrent-ban-xunlei> (直接用 <https://github.com/Simple-Tracker/qBittorrent-ClientBlocker>)
+- 使用 NodeAPI 将 dawn 接入 Node.js
+  - 直接用 [maierfelix/webgpu](https://github.com/maierfelix/webgpu) [dawn.node](https://dawn.googlesource.com/dawn/+/refs/heads/main/src/dawn/node/)
+- 用 Python 改一版 [jinliming2/qbittorrent-ban-xunlei](https://github.com/jinliming2/qbittorrent-ban-xunlei)
+  - 直接用 [Simple-Tracker/qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
+- 实现纯 Lua 的 bit32 polyfill
+  - 直接用 [davidm/lua-bit-numberlua](https://github.com/davidm/lua-bit-numberlua)
