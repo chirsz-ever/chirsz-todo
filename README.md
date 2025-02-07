@@ -57,7 +57,7 @@
 
 - [x] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端 [link](https://github.com/chirsz-ever/jsonrpc-demo-rs)
 - [x] 实现 kmscon 的替代品: wlroots-nogpu + cage + foot [文章](https://zhuanlan.zhihu.com/p/21276024278)
-- [x] 写作：(证明 Ackermann 函数是非原始递归函数)[https://zhuanlan.zhihu.com/p/21484585633]
+- [x] 写作：[证明 Ackermann 函数是非原始递归函数](https://zhuanlan.zhihu.com/p/21484585633)
 
 ## 已废弃
 
