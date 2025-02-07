@@ -11,7 +11,6 @@
 - [ ] 写作：浮点数序列化算法的综述，关于 dragon4，grisu，ryu 等算法
 - [ ] 写作：考证猫里奥的相关历史
 - [ ] 写作：量子计算科普，软件模拟
-- [ ] 写作：证明 Ackermann 函数是非原始递归函数
 
 ## 学习
 
@@ -58,6 +57,7 @@
 
 - [x] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端 [link](https://github.com/chirsz-ever/jsonrpc-demo-rs)
 - [x] 实现 kmscon 的替代品: wlroots-nogpu + cage + foot [文章](https://zhuanlan.zhihu.com/p/21276024278)
+- [x] 写作：(证明 Ackermann 函数是非原始递归函数)[https://zhuanlan.zhihu.com/p/21484585633]
 
 ## 已废弃
 
