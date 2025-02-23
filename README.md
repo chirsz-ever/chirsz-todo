@@ -42,7 +42,6 @@
 - [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html)
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
-- [ ] 在 C++ 中用模板实现简化版的事件模型
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
@@ -73,3 +72,4 @@
   - 直接用 [Simple-Tracker/qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
 - 实现纯 Lua 的 bit32 polyfill
   - 直接用 [davidm/lua-bit-numberlua](https://github.com/davidm/lua-bit-numberlua)
+- 在 C++ 中用模板实现简化版的事件模型 <!-- f**k C++! -->
