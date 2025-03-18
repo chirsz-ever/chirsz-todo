@@ -41,6 +41,7 @@
 - [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
   - [ ] 将相关内容加入 Rust By Example
 - [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html)
+  - [PR](https://github.com/nlohmann/json/pull/4609)
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 给电工学实验的板子加上按键防抖
