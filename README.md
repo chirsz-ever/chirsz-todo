@@ -34,14 +34,7 @@
 
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
-- [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
-- [ ] 使 cage 支持输入法 [PR link](https://github.com/cage-kiosk/cage/pull/417)
 - [ ] 给 fcitx5 写一个 TUI 前端
-- [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
-- [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
-  - [ ] 将相关内容加入 Rust By Example
-- [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html)
-  - [PR](https://github.com/nlohmann/json/pull/4609)
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 给电工学实验的板子加上按键防抖
@@ -54,6 +47,17 @@
 - [ ] 修复 AList 的 bug，或者自己写一套新的 [link1](https://github.com/AlistGo/alist/issues/7011) [link2](https://github.com/AlistGo/alist/issues/7012)
 - [ ] 让 ZeroTier 能更快通过 Moon 节点连接，实现更方便的 ZeroTier 客户端，或者改用 TailScale 等组网方式
 - 关注和研究使用玻璃通过光学手段超长期存储数据的方法，主要是 Project Silica
+
+## 进行中
+
+其实意思是“由于某些原因搁置中”。
+
+- [ ] 使 cage 支持输入法 [PR link](https://github.com/cage-kiosk/cage/pull/417)
+- [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
+- [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
+  - [ ] 将相关内容加入 TRPL 和 Rust By Example
+- [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
+- [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 
 ## 已完成
 
