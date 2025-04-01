@@ -34,6 +34,7 @@
 
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
+- [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
