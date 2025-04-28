@@ -74,7 +74,7 @@
 - 设计并开源 Micro-B 3.0 转 Type-C 的转换电路，含芯片
 - 实现用录音磁带记录二进制数据
 - 使用 NodeAPI 将 dawn 接入 Node.js
-  - 直接用 [maierfelix/webgpu](https://github.com/maierfelix/webgpu) [dawn.node](https://dawn.googlesource.com/dawn/+/refs/heads/main/src/dawn/node/)
+  - 直接用 [node-webgpu](https://www.npmjs.com/package/webgpu)
 - 用 Python 改一版 [jinliming2/qbittorrent-ban-xunlei](https://github.com/jinliming2/qbittorrent-ban-xunlei)
   - 直接用 [Simple-Tracker/qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
 - 实现纯 Lua 的 bit32 polyfill
