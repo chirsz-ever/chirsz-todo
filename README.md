@@ -55,8 +55,6 @@
 
 - [ ] 使 cage 支持输入法 [PR link](https://github.com/cage-kiosk/cage/pull/417)
 - [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
-- [ ] 推进 Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325)
-  - [ ] 将相关内容加入 TRPL 和 Rust By Example
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 
@@ -80,3 +78,4 @@
 - 实现纯 Lua 的 bit32 polyfill
   - 直接用 [davidm/lua-bit-numberlua](https://github.com/davidm/lua-bit-numberlua)
 - 在 C++ 中用模板实现简化版的事件模型 <!-- f**k C++! -->
+- Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325), 将相关内容加入 TRPL 和 Rust By Example
