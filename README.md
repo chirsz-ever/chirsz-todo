@@ -8,7 +8,6 @@
 
 遥记曾立下一个月写两篇文章的壮志……
 
-- [ ] 写作：浮点数序列化算法的综述，关于 dragon4，grisu，ryu 等算法
 - [ ] 写作：考证猫里奥的相关历史
 - [ ] 写作：量子计算科普，软件模拟
 
@@ -54,15 +53,16 @@
 其实意思是“由于某些原因搁置中”。
 
 - [ ] 使 cage 支持输入法 [PR link](https://github.com/cage-kiosk/cage/pull/417)
-- [ ] 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 
 ## 已完成
 
-- [x] 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端 [link](https://github.com/chirsz-ever/jsonrpc-demo-rs)
-- [x] 实现 kmscon 的替代品: wlroots-nogpu + cage + foot [文章](https://zhuanlan.zhihu.com/p/21276024278)
-- [x] 写作：[证明 Ackermann 函数是非原始递归函数](https://zhuanlan.zhihu.com/p/21484585633)
+- 从底层开始实现 NDJSON 协议，在其上实现 JSON-RPC 服务器和客户端 [link](https://github.com/chirsz-ever/jsonrpc-demo-rs)
+- 实现 kmscon 的替代品: wlroots-nogpu + cage + foot [文章](https://zhuanlan.zhihu.com/p/21276024278)
+- 写作：[证明 Ackermann 函数是非原始递归函数](https://zhuanlan.zhihu.com/p/21484585633)
+- 写作：浮点数序列化算法的综述，关于 dragon4，grisu，ryu 等算法 [文章](https://zhuanlan.zhihu.com/p/413271089)
+- 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
 
 ## 已废弃
 
