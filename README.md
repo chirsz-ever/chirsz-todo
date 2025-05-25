@@ -44,6 +44,7 @@
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
 - [ ] 为 Ubisurfer 9 装上 Linux 系统
 - [ ] 实现 WebGL over WebGPU
+- [ ] 排版《新刻全像三宝太監西洋記通俗演義》[link](https://www.shidianguji.com/zh/book/HY1542/)
 - [ ] 修复 AList 的 bug，或者自己写一套新的 [link1](https://github.com/AlistGo/alist/issues/7011) [link2](https://github.com/AlistGo/alist/issues/7012)
 - [ ] 让 ZeroTier 能更快通过 Moon 节点连接，实现更方便的 ZeroTier 客户端，或者改用 TailScale 等组网方式
 - 关注和研究使用玻璃通过光学手段超长期存储数据的方法，主要是 Project Silica
