@@ -35,6 +35,7 @@
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
+- [ ] 使 esbuild 支持转换正则字面量为纯 ASCII
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 给电工学实验的板子加上按键防抖
