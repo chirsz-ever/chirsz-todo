@@ -37,6 +37,7 @@
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
+- [ ] 实现 wayland 在 MacOS 和 windows 上的后端, 能运行 foot 并使用输入法
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
