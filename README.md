@@ -41,6 +41,7 @@
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
+- [ ] 探索 base system (LFS, KISS Linux ...) + linuxbrew 的可行性
 - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
