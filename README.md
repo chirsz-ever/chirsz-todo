@@ -37,7 +37,8 @@
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
-- [ ] 实现 wayland 在 MacOS 和 windows 上的后端, 能运行 foot 并使用输入法
+- [ ] 实现 EGL 在 MacOS 上的浅封装，支持 OpenGL 2.1/OpenGL 4.1 core/OpenGL 2.0 es (GL_ARB_ES2_compatibility)
+- [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
