@@ -37,7 +37,8 @@
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
-- [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
+- [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
+  - [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
 - [ ] 实现 EGL 在 MacOS/Windows 上的浅封装
   - [ ] 实现一个跨平台的 gles2 的 headless render 程序框架
 - [ ] 给电工学实验的板子加上按键防抖
