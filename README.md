@@ -36,6 +36,7 @@
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
+- [ ] 使用 od 和 awk 处理二进制文件，实现 shasum 和 b3sum
 - [ ] 复刻 BGI Demo
 - [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
   - [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
