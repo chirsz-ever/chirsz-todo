@@ -46,7 +46,6 @@
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
-- [ ] 探索 base system (LFS, KISS Linux ...) + linuxbrew 的可行性
 - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
@@ -75,6 +74,7 @@
 - 写作：[证明 Ackermann 函数是非原始递归函数](https://zhuanlan.zhihu.com/p/21484585633)
 - 写作：浮点数序列化算法的综述，关于 dragon4，grisu，ryu 等算法 [文章](https://zhuanlan.zhihu.com/p/413271089)
 - 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
+- 探索 base system (LFS, KISS Linux ...) + linuxbrew 的可行性 [Install Homebrew on Alpine Linux](https://github.com/chirsz-ever/install-homebrew-on-alpine-linux)
 
 ## 已废弃
 
