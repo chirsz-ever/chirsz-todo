@@ -33,7 +33,6 @@
 
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS
-- [ ] 实验将 kiss 作为第二包管理器/用户级包管理器
 - [ ] 给 busybox ps 添加 -p 选项支持
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
@@ -77,6 +76,7 @@
 - 写作：浮点数序列化算法的综述，关于 dragon4，grisu，ryu 等算法 [文章](https://zhuanlan.zhihu.com/p/413271089)
 - 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
 - 探索 base system (LFS, KISS Linux ...) + linuxbrew 的可行性 [Install Homebrew on Alpine Linux](https://github.com/chirsz-ever/install-homebrew-on-alpine-linux)
+- 实验将 kiss 作为第二包管理器/用户级包管理器
 
 ## 已废弃
 
