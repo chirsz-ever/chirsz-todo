@@ -37,7 +37,6 @@
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 为 EGE 写一个安装程序
-- [ ] 使用 od 和 awk 处理二进制文件，实现 shasum 和 b3sum
 - [ ] 复刻 BGI Demo
 - [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
   - [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
@@ -77,6 +76,7 @@
 - 为 [nlohmann/json](https://github.com/nlohmann/json) 加上允许尾随逗号的特性支持, 以支持 [JWCC](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html). [PR link](https://github.com/nlohmann/json/pull/4609)
 - 探索 base system (LFS, KISS Linux ...) + linuxbrew 的可行性 [Install Homebrew on Alpine Linux](https://github.com/chirsz-ever/install-homebrew-on-alpine-linux)
 - 实验将 kiss 作为第二包管理器/用户级包管理器 [link](https://zhuanlan.zhihu.com/p/1939417555426086974)
+- 使用 od 和 awk 处理二进制文件，实现 b3sum [link](https://github.com/chirsz-ever/awk-hashsum)
 
 ## 已废弃
 
