@@ -16,6 +16,7 @@
 - [ ] 《算法概论》（*Algorithms*）
 - [ ] PLFA 第二三分册 [link](https://agda-zh.github.io/PLFA-zh/)
 - [ ] [TwinklebearDev Tutorials](https://github.com/Twinklebear/TwinklebearDev-Lessons)
+- [ ] 用 Rust 学习《从零自制操作系统》
 - [ ] 学会织围巾
 - [ ] 小篆和篆刻
 - [ ] The Tex Book 及中西文排版技术
@@ -36,6 +37,7 @@
 - [ ] 给 busybox ps 添加 -p 选项支持
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
+- [ ] 完善 pie-rs 并发布
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
@@ -43,7 +45,6 @@
 - [ ] 实现 EGL 在 MacOS/Windows 上的浅封装
   - [ ] 实现一个跨平台的 gles2 的 headless render 程序框架
 - [ ] 给电工学实验的板子加上按键防抖
-- [ ] 完善 pie-rs 并发布
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
 - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
