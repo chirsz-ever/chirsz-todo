@@ -94,3 +94,4 @@
   - 直接用 [davidm/lua-bit-numberlua](https://github.com/davidm/lua-bit-numberlua)
 - 在 C++ 中用模板实现简化版的事件模型 <!-- f**k C++! -->
 - Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325), 将相关内容加入 TRPL 和 Rust By Example
+- 为 jsc 增加类型标注，就像 [@types/lib-scripthost](https://github.com/microsoft/TypeScript/blob/v5.9.2/src/lib/scripthost.d.ts) 那样
