@@ -33,7 +33,6 @@
 按某种微妙的顺序排序。
 
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
-- [ ] 给 busybox ps 添加 -p 选项支持
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 完善 pie-rs 并发布
@@ -67,6 +66,7 @@
 - [ ] 翻译 Vulkan tutorial [link](https://github.com/Overv/VulkanTutorial/issues/336)
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 - [ ] 使 esbuild 支持转换正则字面量为纯 ASCII [link](https://github.com/evanw/esbuild/pull/4205)
+- [ ] 给 busybox ps 添加 -p 选项支持 [link](https://lists.busybox.net/pipermail/busybox/2025-August/091713.html)
 
 ## 已完成
 
