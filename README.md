@@ -33,9 +33,9 @@
 按某种微妙的顺序排序。
 
 - [ ] 研究体验 [thunk-rs](https://github.com/sdleffler/thunk-rs) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
+- [ ] 完善 pie-rs 并发布
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
-- [ ] 完善 pie-rs 并发布
 - [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
