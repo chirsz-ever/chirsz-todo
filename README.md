@@ -32,7 +32,6 @@
 
 按某种微妙的顺序排序。
 
-- [ ] 研究体验 [thunk-rs](https://github.com/felixmaker/thunk) 和 [OldWin](https://github.com/honsunrise/oldwin)，写英语文章推广它们
 - [ ] 完善 pie-rs 并发布
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
 - [ ] 给 fcitx5 写一个 TUI 前端
@@ -79,6 +78,7 @@
 - 实验将 kiss 作为第二包管理器/用户级包管理器 [link](https://zhuanlan.zhihu.com/p/1939417555426086974)
 - 使用 od 和 awk 处理二进制文件，实现 b3sum [link](https://github.com/chirsz-ever/awk-hashsum)
 - 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS [link](https://github.com/chirsz-ever/retro-commonjs) <!-- 似乎意义不大 -->
+- 研究体验 [thunk-rs](https://github.com/felixmaker/thunk) 和 [OldWin](https://github.com/honsunrise/oldwin)，~~写英语文章~~推广它们 [link](https://news.ycombinator.com/item?id=45095002)
 
 ## 已废弃
 
