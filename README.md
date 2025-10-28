@@ -44,6 +44,7 @@
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
 - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
+- [ ] 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
 - [ ] 为 Ubisurfer 9 装上 Linux 系统
