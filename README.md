@@ -66,7 +66,7 @@
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 - [ ] 使 esbuild 支持转换正则字面量为纯 ASCII [link](https://github.com/evanw/esbuild/pull/4205)
 - [ ] 给 busybox ps 添加 -p 选项支持 [link](https://lists.busybox.net/pipermail/busybox/2025-August/091713.html)
-- [ ] 为 UbiSurfer9 9 装上 Linux 系统 [link](https://github.com/chirsz-ever/ubisurfer9)
+- [ ] 为 UbiSurfer9 装上 Linux 系统 [link](https://github.com/chirsz-ever/ubisurfer9)
 
 ## 已完成
 
