@@ -47,7 +47,6 @@
 - [ ] 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
-- [ ] 为 Ubisurfer 9 装上 Linux 系统
 - [ ] 实现 WMLScript
 - [ ] 制作《大灰狼与棉花糖》×《动物狂想曲》的 MAD
 - [ ] 实现 `CanvasRenderingContext2D` over WebGPU
@@ -67,6 +66,7 @@
 - [ ] 跟进 deno 上的 WebGPU 实现 [link](https://github.com/denoland/deno/issues/23563)
 - [ ] 使 esbuild 支持转换正则字面量为纯 ASCII [link](https://github.com/evanw/esbuild/pull/4205)
 - [ ] 给 busybox ps 添加 -p 选项支持 [link](https://lists.busybox.net/pipermail/busybox/2025-August/091713.html)
+- [ ] 为 UbiSurfer9 9 装上 Linux 系统 [link](https://github.com/chirsz-ever/ubisurfer9)
 
 ## 已完成
 
