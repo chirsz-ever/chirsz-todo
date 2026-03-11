@@ -34,8 +34,8 @@
 
 - [ ] 完善 pie-rs 并发布
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
+  - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 给 fcitx5 写一个 TUI 前端
-- [ ] 为 EGE 写一个安装程序
 - [ ] 复刻 BGI Demo
 - [ ] 基于 wlroots 在 MacOS 上实现一个 Wayland 合成器
   - [ ] 实现 wayland 在 MacOS 运行 foot 和输入法
@@ -43,7 +43,6 @@
   - [ ] 实现一个跨平台的 gles2 的 headless render 程序框架
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
-- [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
@@ -98,3 +97,4 @@
 - 在 C++ 中用模板实现简化版的事件模型 <!-- f**k C++! -->
 - Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325), 将相关内容加入 TRPL 和 Rust By Example
 - 为 jsc 增加类型标注，就像 [@types/lib-scripthost](https://github.com/microsoft/TypeScript/blob/v5.9.2/src/lib/scripthost.d.ts) 那样
+- 为 EGE 写一个安装程序：直接用 [ege-installer](https://github.com/x-ege/ege-installer)
