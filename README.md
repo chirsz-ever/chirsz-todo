@@ -43,7 +43,6 @@
   - [ ] 实现一个跨平台的 gles2 的 headless render 程序框架
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
-- [ ] 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
 - [ ] 实现 WMLScript
@@ -80,6 +79,7 @@
 - 使用 od 和 awk 处理二进制文件，实现 b3sum [link](https://github.com/chirsz-ever/awk-hashsum)
 - 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS [link](https://github.com/chirsz-ever/retro-commonjs) <!-- 似乎意义不大 -->
 - 研究体验 [thunk-rs](https://github.com/felixmaker/thunk) 和 [OldWin](https://github.com/honsunrise/oldwin)，~~写英语文章~~推广它们 [link](https://news.ycombinator.com/item?id=45095002)
+- 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库: [ili-gui](https://github.com/chirsz-ever/deno-webgpu-window-demos/blob/4bf8eddbb8be66c6e430d7576b61fe4a741ed981/threejs/polyfill/ili-gui.ts)
 
 ## 已废弃
 
