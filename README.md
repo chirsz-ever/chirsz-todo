@@ -8,7 +8,6 @@
 
 遥记曾立下一个月写两篇文章的壮志……
 
-- [ ] 写作：考证猫里奥的相关历史
 - [ ] 写作：量子计算科普，软件模拟
 
 ## 学习
@@ -81,7 +80,8 @@
 - 用纯 JS 实现兼容 NodeJS 逻辑的 CommonJS [link](https://github.com/chirsz-ever/retro-commonjs) <!-- 似乎意义不大 -->
 - 研究体验 [thunk-rs](https://github.com/felixmaker/thunk) 和 [OldWin](https://github.com/honsunrise/oldwin)，~~写英语文章~~推广它们 [link](https://news.ycombinator.com/item?id=45095002)
 - 实现类似 lil-gui 但不用 DOM 而使用后端绘制的 JavaScript GUI 库: [ili-gui](https://github.com/chirsz-ever/deno-webgpu-window-demos/blob/4bf8eddbb8be66c6e430d7576b61fe4a741ed981/threejs/polyfill/ili-gui.ts)
-
+- 写作：考证猫里奥的相关历史 [link](https://chirsz.cc/blog/2026-05/cat-mario-history.html)
+ 
 ## 已废弃
 
 - 解决 minicom 中文本地化的对齐混乱
