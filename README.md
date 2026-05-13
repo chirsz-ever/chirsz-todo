@@ -46,6 +46,7 @@
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
 - [ ] 完善 MagicCube 程序，实现 3D 可视化，移植到 WebGL
 - [ ] 实现 WMLScript
+- [ ] 重构猫里奥，实现关卡编辑器
 - [ ] 修复 https://github.com/evanw/esbuild/issues/1420
 - [ ] 制作《大灰狼与棉花糖》×《动物狂想曲》的 MAD
 - [ ] 实现 `CanvasRenderingContext2D` over WebGPU
