@@ -42,7 +42,6 @@
 - [ ] 实现 EGL 在 MacOS/Windows 上的浅封装
   - [ ] 参考 [GLFW NULL platform](https://github.com/glfw/glfw/blob/b00e6a8a88ad1b60c0a045e696301deb92c9a13e/src/null_window.c)? 
   - [ ] 实现一个跨平台的 gles2 的 headless render 程序框架
-- [ ] 使用逻辑编程解决一些问题，如“爱因斯坦谜题”
 - [ ] 给电工学实验的板子加上按键防抖
 - [ ] 实现 GLSS，复刻 GLUT 中生成的 Mesh
 - [ ] 完善 [opengl-bunny-demo](https://github.com/chirsz-ever/opengl-bunny-demo)
@@ -102,3 +101,4 @@
 - Rust 中 `static_assert` 相关 [link](https://github.com/rust-lang/libs-team/issues/325), 将相关内容加入 TRPL 和 Rust By Example
 - 为 jsc 增加类型标注，就像 [@types/lib-scripthost](https://github.com/microsoft/TypeScript/blob/v5.9.2/src/lib/scripthost.d.ts) 那样
 - 为 EGE 写一个安装程序：直接用 [ege-installer](https://github.com/x-ege/ege-installer)
+- 使用逻辑编程解决一些问题，如“爱因斯坦谜题”
