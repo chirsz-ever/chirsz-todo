@@ -33,6 +33,7 @@
 
 - [ ] 完善 pie-rs 并发布
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
+  - [ ] 实现 WebAssembly 通过 Deno FFI 或者 Node FFI 调用系统原生库，以支持将 glfw 等编译到 WebAssembly
   - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
 - [ ] 给 fcitx5 写一个 TUI 前端
 - [ ] 复刻 BGI Demo
