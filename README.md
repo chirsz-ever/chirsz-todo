@@ -20,10 +20,12 @@
 - [ ] 小篆和篆刻
 - [ ] The Tex Book 及中西文排版技术
 - [ ] 糖画制作
+- [ ] 实现高性能粒子系统
 - [ ] 实现软光栅
 - [ ] 实现软光线追踪
 - [ ] 编译 Gentoo
 - [ ] 编译 LFS
+- [ ] 研究计算尺（1002矢量重对数双面计算尺），排版使用说明
 - [ ] 学习藤本修三的折纸技术，并将其著作翻译、电子排版
 - [ ] 自定义一套用字标准 (基于 [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs))
 
@@ -33,6 +35,8 @@
 
 - [ ] 完善 pie-rs 并发布
 - [ ] 制作 JMC 三篇 LISP 论文的中文翻译版本
+- [ ] 研究早期 LISP 的实现
+- [ ] 实现自己的 Lisp 方言
 - [ ] 用 deno FFI 实现纯 JavaScript 的 GUI 库
   - [ ] 实现 WebAssembly 通过 Deno FFI 或者 Node FFI 调用系统原生库，以支持将 glfw 等编译到 WebAssembly
   - [ ] 基于 deno 实现一个类似 [LÖVE](https://love2d.org/) 或者 [LÖVR](https://lovr.org/) 的框架
