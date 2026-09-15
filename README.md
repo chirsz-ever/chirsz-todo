@@ -33,6 +33,7 @@
 
 按某种微妙的顺序排序。
 
+- [ ] bootstrap kiss
 - [ ] 完善 pie-rs 并发布
 - [ ] 制作 JMC 三篇 LISP 论文的中文翻译版本
 - [ ] 研究早期 LISP 的实现
