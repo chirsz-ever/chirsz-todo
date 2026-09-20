@@ -109,3 +109,5 @@
 - 为 jsc 增加类型标注，就像 [@types/lib-scripthost](https://github.com/microsoft/TypeScript/blob/v5.9.2/src/lib/scripthost.d.ts) 那样
 - 为 EGE 写一个安装程序：直接用 [ege-installer](https://github.com/x-ege/ege-installer)
 - 使用逻辑编程解决一些问题，如“爱因斯坦谜题”
+- 使用 C++ 模板实现编译期安全的单位制计算
+  - 直接使用 [teamspatzenhirn/SI](https://github.com/teamspatzenhirn/SI) 或者 [bernedom/SI](https://github.com/bernedom/SI)
